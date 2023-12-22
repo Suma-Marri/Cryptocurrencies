@@ -1,6 +1,7 @@
 # Cryptocurrencies
 
 ## Overview of the Analysis
+The project aimed to employ unsupervised machine learning techniques for a comprehensive analysis of the cryptocurrency market. The primary goal was to generate insights and recommendations for an investment company seeking to construct an optimal investment portfolio for its clients.
 
 ## Results
 
