@@ -18,14 +18,14 @@ Both these scatter plots show the distribution and the four clusters of cryptocu
 
 ![newplot](https://user-images.githubusercontent.com/58046234/163842239-9f103a61-0ce0-4f95-8251-1c81d9b2410f.png)
 
-This visualization was obtained using the PCA algorithm to reduce the crytocurrencies dimensions to three principal components.
+This visualization was obtained using the PCA algorithm to reduce the cryptocurrency's dimensions to three principal components.
 
 *2-D Scatter Plot*
 
 ![bokeh_plot (1)](https://user-images.githubusercontent.com/58046234/163842203-5d02e3aa-0a7f-4d75-9516-e99206ab6996.png)
 
-This 2-D scatter plot was obtained using the PCA algorithm to reduce the crytocurrencies dimensions to two principal components.
+This 2-D scatter plot was obtained using the PCA algorithm to reduce the cryptocurrency's dimensions to two principal components.
 
 
 ## Summary
-We have identified the classification of 532 cryptocurrencies based on similarities of their features. Particularities of each group need to be analyzed to determined their performance and potential interest for the investment bank's clients.
+We have identified the classification of 532 cryptocurrencies based on similarities of their features. Particularities of each group need to be analyzed to determine their performance and potential interest for the investment bank's clients.
